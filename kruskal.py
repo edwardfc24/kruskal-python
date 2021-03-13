@@ -5,3 +5,4 @@ class Kruskal:
 
 # Repositorio clonado - David Banzer
 # Repositorio Clonado - Leonardo Ruiz
+# Repositorio clonado - Valeria Quiroga
