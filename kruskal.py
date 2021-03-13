@@ -7,3 +7,5 @@ class Kruskal:
 =======
 #Repositorio clonado - David Banzer
 >>>>>>> base-kruskal
+
+#Se pudo hacer el clone
